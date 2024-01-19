@@ -6,10 +6,10 @@
     <meta name="google-site-verification" content="KXczmoSTSaTGgtUBgnSv407dLYquCi9OWfb6Me9Bf18" />
     <meta nane="description" content="malachite-sarl.com">
     <!-- Bootstrap CSS -->
-    <link href="bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
      <link rel="stylesheet" type="text/css" href="index.css">
       <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-     <link rel="stylesheet" type="text/css" href="fontawesome-free-6.5.1-web/css/all.min.css"> 
+     <link rel="stylesheet" type="text/css" href="all.min.css"> 
     <link rel="stylesheet" type="text/css" href="index.css">
     <link rel="icon" href="images/ICON ORIGINALE.png" type="image/x-icon">
 
@@ -52,13 +52,13 @@
        <div id="carouselExampleSlidesOnly" style="margin-top: 140px; box-shadow: 1px 1px 20px #5C4BC2;" class="carousel slide" data-bs-ride="carousel"  data-aos="zoom-in-up" data-aos-duration="3000">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/1.jpg" class="d-block w-100" alt="..." height="300">
+      <img src="1.jpg" class="d-block w-100" alt="..." height="300">
     </div>
     <div class="carousel-item">
-      <img src="images/2.jpg" class="d-block w-100" alt="..." height="300">
+      <img src="2.jpg" class="d-block w-100" alt="..." height="300">
     </div>
     <div class="carousel-item">
-      <img src="images/3.jpg" class="d-block w-100" alt="..." height="300">
+      <img src="3.jpg" class="d-block w-100" alt="..." height="300">
     </div>
   </div>
 </div>
@@ -73,7 +73,7 @@
   <div class="container">
     <div class="row" >
       <div class="col-md-6">
-        <p align="center" data-aos="zoom-in-up" data-aos-duration="3000"><img style="box-shadow: 1px 1px 20px #5C4BC2; margin-top: 100px;" src="images/4.jpg" class="img-fluid" width="400" height="200"></p> 
+        <p align="center" data-aos="zoom-in-up" data-aos-duration="3000"><img style="box-shadow: 1px 1px 20px #5C4BC2; margin-top: 100px;" src="4.jpg" class="img-fluid" width="400" height="200"></p> 
        </div>  
        <div class="col-md-6">
          <h3 align="center" data-aos="zoom-in-up" data-aos-duration="3000" style="color:#5C4BC2; font-size: 40px; font-weight: bold; margin-top: 70px;">
@@ -144,6 +144,6 @@
   <script>
     AOS.init();
   </script>
-    <script src="bootstrap-5.0.2-dist//js/bootstrap.bundle.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
   </body>
 </html>
